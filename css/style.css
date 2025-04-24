@@ -28,3 +28,20 @@ body {
   font-size: 24px;
   color: #222;
 }
+
+/*main container*/
+.container {
+  width: 60%;
+  margin: 30px auto;
+  background-color: white;
+  padding: 30px;
+  border-radius: 8px;
+}
+
+.check-green {
+  color: green;
+}
+
+.cross-red {
+  color: red;
+}
