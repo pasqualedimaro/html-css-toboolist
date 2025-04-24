@@ -45,3 +45,26 @@ body {
 .cross-red {
   color: red;
 }
+/*buttons*/
+.buttons {
+  margin-bottom: 20px;
+}
+
+.add-task,
+.add-section {
+  padding: 10px 15px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-task {
+  background-color: #47adf1;
+  color: white;
+}
+
+.add-section {
+  background-color: #e0e0e0;
+  color: #555;
+}
